@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Runner.iml" filepath="$PROJECT_DIR$/Runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runner.iml" filepath="$PROJECT_DIR$/runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vts-kit-backend-core/vts-kit-backend-core.iml" filepath="$PROJECT_DIR$/vts-kit-backend-core/vts-kit-backend-core.iml" />
     </modules>
   </component>
 </project>

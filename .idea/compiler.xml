@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Runner" />
+        <module name="runner" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Runner" target="8" />
+      <module name="runner" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
